@@ -1,12 +1,12 @@
 {
-  "name": "flutter-clean-architecture",
-  "displayName": "Flutter Feature Scaffolding",
+  "name": "oceanmtech_feature_first_architecture",
+  "displayName": "Oceanmtech Feature Architecture",
   "description": "Add new feature easily with well structured directories (Clean Architecture pattern)",
-  "version": "2.1.4",
-  "publisher": "KiritchoukC",
+  "version": "1.1.1",
+  "publisher": "Oceanmtech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KiritchoukC/vscode-ext_flutter-clean-architecture"
+    "url": "https://github.com/meetdabhioceanmtech/flutter-clean-architecture_with_state.git"
   },
   "license": "MIT",
   "engines": {
